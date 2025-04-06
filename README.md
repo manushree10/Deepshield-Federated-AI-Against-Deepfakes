@@ -2,7 +2,7 @@
 Federated Learning based Deepfake Detection for Images, Audio &amp; Video
 
 
-# 🧠 Federated Learning for Deepfake Detection 
+# Federated Learning for Deepfake Detection 
 
 This is our major project for detecting deepfakes using **Federated Learning (FL)**.  
 We are focusing on:
